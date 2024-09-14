@@ -1,2 +1,2 @@
 # Recommendor System 
-App Link : http://10.20.35.12:8501/
+App Link : https://app-recommendor-03afab986ae8.herokuapp.com/
